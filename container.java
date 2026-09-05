@@ -1,4 +1,8 @@
-/* Encapsulation using private keyword and getter and setter methods */
+/* Encapsulation using private keyword and getter and setter methods
+
+private - inside the same class only
+public - accessible from anywhere
+protected - same package + Subclasses (incase of inheritance)*/
 
 
 import java.util.*;

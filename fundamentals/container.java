@@ -1,3 +1,4 @@
+package fundamentals;
 /* Encapsulation using private keyword and getter and setter methods
 
 private - inside the same class only

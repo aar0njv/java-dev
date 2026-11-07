@@ -1,3 +1,4 @@
+package fundamentals;
 /*
 - why not abstract class instead of interface: java support only single inheritance
 - but multiple interfaces can be implemented

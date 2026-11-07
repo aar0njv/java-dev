@@ -1,3 +1,4 @@
+package fundamentals;
 /* 
 - Inheritance: extends allows a child to inherit from parent class.
 - super() calls the parent class constructors. it must be the first statement inside the child constructor.

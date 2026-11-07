@@ -1,6 +1,6 @@
 # Java Data Structures and Object Comparison
 
-This document outlines the core concepts required to safely use custom Java objects, particularly when overriding default behaviors for use in hash-based collections.
+This document outlines the core concepts Interfaces and Abstraction, ENums, hashCode/equals, Overriding and immutability
 
 ## The @Override Annotation
 
